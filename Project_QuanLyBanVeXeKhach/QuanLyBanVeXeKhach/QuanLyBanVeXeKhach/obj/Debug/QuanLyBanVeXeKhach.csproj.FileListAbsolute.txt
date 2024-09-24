@@ -1,0 +1,125 @@
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe.config
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.BanVe.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Form1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Login.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Properties.Resources.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.QLNhanVien.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TaiKhoan.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.exe
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddTaiKhoan.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThemVe.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TimKiem.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.VeXe.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CopyComplete
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhat.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddNV.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhatNV.resources
+C:\Users\ASUS\Documents\Zalo Received Files\MayTinhLapRap\PhongChoThue\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.SuaCX.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.AssemblyReference.cache
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.SuggestedBindingRedirects.cache
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddNV.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddTaiKhoan.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.BanVe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhat.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhatNV.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ChonCho.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.GiaoDien.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Login.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Properties.Resources.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.QLNhanVien.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.QLTuyenXe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.SuaCX.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.SuaKH.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TaiKhoan.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Test.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThemVe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThongKe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThongTinBanVe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TimKiem.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.VeXe.resources
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.GenerateResource.cache
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe.config
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.pdb
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.xml
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CopyComplete
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.exe
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.pdb
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\stdole.dll
+D:\C#\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.FormThongKe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.AssemblyReference.cache
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.SuggestedBindingRedirects.cache
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddNV.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.AddTaiKhoan.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.BanVe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhat.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.CapNhatNV.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ChonCho.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.FormThongKe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.GiaoDien.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Login.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.Properties.Resources.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.QLNhanVien.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.QLTuyenXe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.SuaCX.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.SuaKH.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TaiKhoan.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThemVe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThongKe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.ThongTinBanVe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.TimKiem.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.VeXe.resources
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.GenerateResource.cache
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CoreCompileInputs.cache
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.exe
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.pdb
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe.config
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.exe
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\QuanLyBanVeXeKhach.pdb
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.Shared.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\stdole.dll
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\bin\Debug\System.Data.SqlClient.xml
+D:\NguyenQuyTrong_DuongHoangHaiYen_2111111548_2111111681\QuanLyBanVeXeKhach\QuanLyBanVeXeKhach\obj\Debug\QuanLyBanVeXeKhach.csproj.CopyComplete
